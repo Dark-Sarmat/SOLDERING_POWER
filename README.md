@@ -29,8 +29,8 @@
 
 ![SHEMA](https://static.ionline.by/2019/01/SHEMA.png)
 
-Полную инструкцию по устройству вы модете прочитать в статье: [Повербанк для паяльной станции или паяльника TS100 своими руками] (https://www.ionline.by/diy/samodelki/poverbank-dlya-payalnoj-stancii-ili-payalnika-ts100-svoimi-rukami-19-01-2019/)
+Полную инструкцию по устройству вы модете прочитать в статье: [Повербанк для паяльной станции или паяльника TS100 своими руками](https://www.ionline.by/diy/samodelki/poverbank-dlya-payalnoj-stancii-ili-payalnika-ts100-svoimi-rukami-19-01-2019/)
 
-Так же вы можете ознакомиться со статьей о повышающем DC-DC преобопзователе: [Повышающий DC-DC преобразователь со взрывным характером (150 Ват входное напряжение 10-32 В, выходное 12-35 В)] (https://www.ionline.by/tovary-i-pokupki-v-internete/moduli/dc-dc-preobrazovateli/povyshayushhij-dc-dc-preobrazovatel-so-vzryvnym-xarakterom-150-vat-vxodnoe-napryazhenie-10-32-v-vyxodnoe-12-35-v-19-04-2018/)
+Так же вы можете ознакомиться со статьей о повышающем DC-DC преобопзователе: [Повышающий DC-DC преобразователь со взрывным характером (150 Ват входное напряжение 10-32 В, выходное 12-35 В)](https://www.ionline.by/tovary-i-pokupki-v-internete/moduli/dc-dc-preobrazovateli/povyshayushhij-dc-dc-preobrazovatel-so-vzryvnym-xarakterom-150-vat-vxodnoe-napryazhenie-10-32-v-vyxodnoe-12-35-v-19-04-2018/)
 
-[Сайт автора проекта iOnline.by] (https://www.ionline.by/)
+[Сайт автора проекта iOnline.by](https://www.ionline.by/)
